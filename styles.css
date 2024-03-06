@@ -84,9 +84,9 @@ a {
 
 .community__description {
   text-wrap: initial;
-  font-size: clamp(16px, 3vw, 19px);
+  font-size: clamp(16px, 3vw, 18px);
   font-weight: 700;
-  letter-spacing: -0.7px;
+  letter-spacing: -0.2px;
   color: var(--clr-primary-bright-yellow);
   margin-bottom: clamp(11px, 18px - 10vw, 18px);
 }
